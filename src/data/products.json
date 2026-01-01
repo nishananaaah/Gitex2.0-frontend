@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Global Leaders Forum !NEW (3 Days)", "column": "left" },
+  { "id": 2, "name": "GITEX Main Stage", "column": "left" },
+  { "id": 3, "name": "Artificial Intelligence & Robotics (15)", "column": "left" },
+  { "id": 4, "name": "AI Everything (4 Days)", "column": "left" },
+  { "id": 5, "name": "Cybersecurity (4 Days)", "column": "left" },
+  { "id": 6, "name": "Future Health !NEW (2 Days)", "column": "left" },
+  { "id": 7, "name": "Digital Cities (1 Day)", "column": "right" },
+  { "id": 8, "name": "Edtech (1 Day)", "column": "right" },
+  { "id": 9, "name": "Energy Transition (1 Day)", "column": "right" },
+  { "id": 10, "name": "Intelligent Connectivity (1 Day)", "column": "right" },
+  { "id": 11, "name": "Digital Finance (1 Day)", "column": "right" },
+  { "id": 12, "name": "Future Mobility (1 Day)", "column": "right" }
+]

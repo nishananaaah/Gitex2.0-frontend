@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ticket1",
+    "badge": "BEST VALUE",
+    "badgeColor": "bg-purple-600",
+    "title": "VISITOR 3 DAY ACCESS TICKET",
+    "color": "from-gray-900 to-gray-800",
+    "price": "32.5",
+    "features": [
+      "Access to Conventions & Investor Lounge",
+      "Network Events",
+      "All Conference Tracks",
+      "All Masterclasses",
+      "3 Days Access to the Show",
+      "Access to Dubai Internet City Lounge"
+    ]
+  },
+  {
+    "id": "ticket2",
+    "badge": null,
+    "title": "VISITOR 3 DAY ACCESS TICKET",
+    "color": "from-orange-600 to-orange-500",
+    "price": "FREE",
+    "features": [
+      "Access to Conventions & Investor Lounge",
+      "Network Events",
+      "All Conference Tracks",
+      "All Masterclasses",
+      "3 Days Access to the Show",
+      "Access to Dubai Internet City Lounge"
+    ]
+  },
+  {
+    "id": "ticket3",
+    "badge": "EXCLUSIVE",
+    "badgeColor": "bg-green-600",
+    "title": "VISITOR 3 DAY ACCESS TICKET",
+    "color": "from-gray-800 to-gray-900",
+    "price": "FREE",
+    "features": [
+      "Access to Conventions & Investor Lounge",
+      "Network Events",
+      "All Conference Tracks",
+      "All Masterclasses",
+      "3 Days Access to the Show",
+      "Access to Dubai Internet City Lounge"
+    ]
+  },
+  {
+    "id": "ticket4",
+    "badge": "BEST SELLER",
+    "badgeColor": "bg-green-500",
+    "title": "VISITOR 3 DAY ACCESS TICKET",
+    "color": "from-gray-900 to-black",
+    "price": "FREE",
+    "features": [
+      "Access to Conventions & Investor Lounge",
+      "Network Events",
+      "All Conference Tracks",
+      "All Masterclasses",
+      "3 Days Access to the Show",
+      "Access to Dubai Internet City Lounge"
+    ]
+  },
+  {
+    "id": "ticket5",
+    "badge": null,
+    "title": "VISITOR 3 DAY ACCESS TICKET",
+    "color": "from-green-600 to-green-500",
+    "price": "FREE",
+    "features": [
+      "Access to Conventions & Investor Lounge",
+      "Network Events",
+      "All Conference Tracks",
+      "All Masterclasses",
+      "3 Days Access to the Show",
+      "Access to Dubai Internet City Lounge"
+    ]
+  },
+  {
+    "id": "ticket6",
+    "badge": null,
+    "title": "VISITOR 3 DAY ACCESS TICKET",
+    "color": "from-blue-700 to-blue-600",
+    "price": "FREE",
+    "features": [
+      "Access to Conventions & Investor Lounge",
+      "Network Events",
+      "All Conference Tracks",
+      "All Masterclasses",
+      "3 Days Access to the Show",
+      "Access to Dubai Internet City Lounge"
+    ]
+  }
+]
