@@ -25,13 +25,13 @@ function Login() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-teal-600 via-emerald-600 to-green-700">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C]">
       <Toast show={showToast} message={toastMessage} type={toastType} />
 
       <div className="w-full max-w-md px-6">
         <div className="bg-white rounded-2xl shadow-2xl p-8">
           <div className="text-center mb-8">
-            <div className="inline-block p-3 bg-gradient-to-r from-teal-500 to-emerald-600 rounded-full mb-4">
+            <div className="inline-block p-3 bg-gradient-to-r from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C]">
               <svg
                 className="w-12 h-12 text-white"
                 fill="none"
@@ -184,7 +184,7 @@ function Login() {
 
             <button
               onClick={handleSubmit}
-              className="w-full bg-gradient-to-r from-teal-500 to-emerald-600 text-white py-3 px-4 rounded-lg font-semibold hover:from-teal-600 hover:to-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 transform transition hover:scale-105 shadow-lg"
+              className="w-full bg-gradient-to-r from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] text-white py-3 px-4 rounded-lg font-semibold hover:from-teal-600 hover:to-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 transform transition hover:scale-105 shadow-lg"
             >
               Login
             </button>

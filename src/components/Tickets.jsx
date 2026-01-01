@@ -48,7 +48,7 @@ function Tickets() {
     <div className="min-h-screen bg-white">
       <Toast show={showToast} message={toastMessage} type={toastType} />
 
-      <div className="h-24 bg-gradient-to-br from-green-600 via-emerald-500 to-teal-600 relative overflow-hidden">
+      <div className="h-24 bg-gradient-to-br from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] relative overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute top-2 right-48 w-12 h-12 bg-lime-400 opacity-60"></div>
           <div className="absolute top-8 right-32 w-16 h-16 bg-green-400 opacity-50"></div>
@@ -176,7 +176,7 @@ function Tickets() {
         </div>
       </div>
 
-      <div className="bg-gradient-to-br from-green-600 via-emerald-500 to-teal-600 py-8 mt-8 relative overflow-hidden">
+      <div className="bg-gradient-to-br from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] py-8 mt-8 relative overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute bottom-4 left-48 w-12 h-12 bg-lime-400 opacity-60"></div>
           <div className="absolute bottom-8 left-32 w-16 h-16 bg-green-400 opacity-50"></div>

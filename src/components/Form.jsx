@@ -164,7 +164,7 @@ function Form() {
   if (isSubmitted) {
     return (
       <div className="min-h-screen flex flex-col bg-gradient-to-b from-lime-100 to-lime-50">
-        <div className="h-20 bg-gradient-to-br from-green-600 via-emerald-500 to-teal-600 relative overflow-hidden">
+        <div className="h-20 bg-gradient-to-br from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] relative overflow-hidden">
           <div className="absolute inset-0">
             <div className="absolute top-0 right-32 w-16 h-16 bg-lime-400 opacity-60"></div>
             <div className="absolute top-4 right-48 w-12 h-12 bg-green-400 opacity-50"></div>
@@ -216,7 +216,7 @@ function Form() {
           </div>
         </div>
 
-        <div className="h-24 bg-gradient-to-br from-green-600 via-emerald-500 to-teal-600 relative overflow-hidden">
+        <div className="h-24 bg-gradient-to-br from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] relative overflow-hidden">
           <div className="absolute inset-0">
             <div className="absolute bottom-2 left-32 w-16 h-16 bg-lime-400 opacity-60"></div>
             <div className="absolute bottom-8 left-48 w-12 h-12 bg-green-400 opacity-50"></div>
@@ -231,7 +231,7 @@ function Form() {
     <div className="min-h-screen bg-gradient-to-b from-lime-100 to-lime-50">
       <Toast show={showToast} message={toastMessage} type={toastType} />
 
-      <div className="h-20 bg-gradient-to-br from-green-600 via-emerald-500 to-teal-600 relative overflow-hidden">
+      <div className="h-20 bg-gradient-to-br from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] relative overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute top-0 right-32 w-16 h-16 bg-lime-400 opacity-60"></div>
           <div className="absolute top-4 right-48 w-12 h-12 bg-green-400 opacity-50"></div>

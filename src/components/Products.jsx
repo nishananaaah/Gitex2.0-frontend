@@ -61,7 +61,7 @@ function Products() {
       <Toast show={showToast} message={toastMessage} type={toastType} />
 
       <div className="max-w-6xl mx-auto">
-        <div className="bg-gradient-to-r from-green-600 to-green-500 rounded-t-2xl p-6 relative shadow-lg">
+        <div className="bg-gradient-to-r from-[#0B5D1E] via-[#1E7F2A] to-[#0F8A3C] rounded-t-2xl p-6 relative shadow-lg">
           <h1 className="text-white text-3xl font-bold tracking-wide">
             SELECT WORKSHOPS
           </h1>
